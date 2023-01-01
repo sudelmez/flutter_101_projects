@@ -1,0 +1,1 @@
+//bu klasörde image, text vb kısımlar tutulur. birden fazla projede kullanılabilir.
